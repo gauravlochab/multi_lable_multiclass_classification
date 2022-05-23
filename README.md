@@ -3,7 +3,7 @@
 ## Usage:
 
 1. **Preprocessing and training on GPU**<br>
-  training notebook (https://github.com/gauravlochab/multi_lable_multiclass_classification/blob/main/multiclass_classification.ipynb).<br>
+  [training notebook] (https://github.com/gauravlochab/multi_lable_multiclass_classification/blob/main/multiclass_classification.ipynb).<br>
 
 2. **Inference File** <br>
 -> Run the script in the as illustrated in the notebook.<br>
