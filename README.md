@@ -15,5 +15,5 @@ $ python inference.py --csv_file /content/attributes_test.csv --ckpts /content/d
 ## Models
 Under the `models` directory, fine tuned models are available.
 [model.pt](https://drive.google.com/file/d/1-D4QzRDhtlFqj4wzZUj4s9TpS2xA369t/view?usp=sharing)
-The following models were finetuned on the dataset<br>
+
 
