@@ -8,6 +8,10 @@
 2. **Inference File** <br>
 -> Run the script in the as illustrated in the notebook.<br>
 ```bash 
+$ python inference.py --csv_file path_to_test_csv --ckpts path_to_model_weights
+```
+```bash 
+colab example given that you have added the inference file,test.csv from repo to colab and downloaded weights from link below 
 $ python inference.py --csv_file /content/attributes_test.csv --ckpts /content/drive/MyDrive/outputs/model.pth
 ```
 -> This will generate [`Output.csv`]([https://github.com/gauravlochab/multi_lable_multiclass_classification/blob/main/Output.csv]) file under `data` directory for the test images located in `data/test` directory. 
