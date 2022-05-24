@@ -6,7 +6,7 @@
   [training notebook](https://github.com/gauravlochab/multi_lable_multiclass_classification/blob/main/multiclass_classification.ipynb).<br>
 
 2. **Inference File** <br>
--> Run the script in the as illustrated in the notebook.<br>
+-> Run the script as illustrated in the notebook above (in last cell).<br>
 ```bash 
 $ python inference.py --csv_file path_to_test_csv --ckpts path_to_model_weights
 ```
