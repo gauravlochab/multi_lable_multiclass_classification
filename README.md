@@ -10,7 +10,7 @@
 ```bash 
 $ python inference.py --csv_file path_to_test_csv --ckpts path_to_model_weights
 ```
-colab example given that you have added the inference file,test.csv from repo to colab and downloaded weights from link below
+colab example given that you have added the inference file,test.csv from repo to colab and downloaded weights from link below or
 ```gdown --id 1-D4QzRDhtlFqj4wzZUj4s9TpS2xA369t```
 ```bash 
 $ python inference.py --csv_file /content/attributes_test.csv --ckpts /content/drive/MyDrive/outputs/model.pth
