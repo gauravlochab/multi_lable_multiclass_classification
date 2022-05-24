@@ -14,7 +14,7 @@ colab example given that you have added the inference file,test.csv from repo to
 ```bash 
 $ python inference.py --csv_file /content/attributes_test.csv --ckpts /content/drive/MyDrive/outputs/model.pth
 ```
--> This will generate [`Output.csv`]([https://github.com/gauravlochab/multi_lable_multiclass_classification/blob/main/Output.csv]) file under `data` directory for the test images located in `data/test` directory. 
+-> This will generate [`Output.csv`]([https://github.com/gauravlochab/multi_lable_multiclass_classification/blob/main/Output.csv]) file in the same directory as of inference.py
 
 ## Models
 Under the `models` directory, fine tuned models are available.
