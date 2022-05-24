@@ -17,7 +17,7 @@ $ python inference.py --csv_file /content/attributes_test.csv --ckpts /content/d
 -> This will generate [`Output.csv`]([https://github.com/gauravlochab/multi_lable_multiclass_classification/blob/main/Output.csv]) file in the same directory as of inference.py
 
 ## Models
-Under the `models` directory, fine tuned models are available.
-[model.pt](https://drive.google.com/file/d/1-D4QzRDhtlFqj4wzZUj4s9TpS2xA369t/view?usp=sharing)
+Under the `outputs` directory, model weights and loss graph are available.
+Drive link to model  : [model.pt](https://drive.google.com/file/d/1-D4QzRDhtlFqj4wzZUj4s9TpS2xA369t/view?usp=sharing)
 
 
